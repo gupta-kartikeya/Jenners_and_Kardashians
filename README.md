@@ -1,0 +1,2 @@
+# Jenners_and_Kardashians
+Kim, Khloe and Kourtney Kardashians are daughters of Kris Jenner and Robert Kardashians. Kylie and Kendall Jenner are daughters of Kris Jenner and  Bruce Jenner. These sisters have been the most hyped family in the world as a result of many controversies, multiple TV series, multiple projects, many weddings, etc. This project compares data collected from google trends to prove which of these sisters has been popular through the web searches in the span of 11 years.
